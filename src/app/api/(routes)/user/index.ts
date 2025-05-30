@@ -1,5 +1,6 @@
 import { Hono } from "hono";
 
+import { geminiCoverLetterSystemPrompt } from "@/database/constants";
 import { UserType } from "@/types";
 
 import { zValidator } from "../../(utils)";
@@ -23,7 +24,7 @@ const userRoute = new Hono()
           resumeContent1: "",
           resumeContent2: "",
           resumeContent3: "",
-          coverLetterPrompt: "",
+          coverLetterPrompt: geminiCoverLetterSystemPrompt,
         } satisfies UserType,
         200,
       );
