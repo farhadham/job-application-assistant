@@ -1,0 +1,59 @@
+FARHAD FARAJI
+Software Engineer
+farhadham2@gmail.com • +98-903-631-2916 • linkedin.com/in/farhadfaraji • Open to Relocation
+
+
+SUMMARY
+
+3 years of experience specializing in Frontend development with a keen interest in Backend technologies. Contributed to
+developing ve production-ready applications serving 3,000+ daily active users. Procient in JavaScript, TypeScript, and
+React.js, focusing on optimizing performance and scalability through strategic migrations and code refactoring. Dedicated to
+continuous learning, problem-solving, and innovation. Fluent in 4 languages with a commitment to expanding expertise.
+
+
+TECHNICAL SKILLS
+
+Programming Languages: JavaScript (ES6+), TypeScript, Python, Go, Java, SQL
+Frontend: React, Vue, HTML5, CSS3, SASS, Three.js (Drei, React Fiber), Tailwind CSS, Bootstrap, Material UI
+Backend & APIs: Node.js, Express, Hono, Next.js, GraphQL, REST APIs
+DevOps, Databases & Testing: Docker, AWS, Google Cloud, PostgreSQL, SQLite, Supabase, MongoDB (NoSQL),
+Jest, Cypress, Vitest, Playwright, React Testing Library
+Other: Git, Figma, Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+
+EVALUCAR Paris, France (Remote from Iran)
+Full Stack Software Engineer May 2023 - May 2025
+● Optimized infrastructure by migrating a React front-end and AWS Lambda backend to full-stack Next.js on Vercel,
+cutting monthly costs by 63% while preserving scalability and performance for 3,000+ daily users.
+● Reduced codebase by 30% and loading time by 0.7 seconds, as measured by Lighthouse, through refactoring web
+applications from Material UI to Shadcn UI components.
+● Established and deployed an Express.js backend application on AWS cloud infrastructure, ensuring scalability,
+reliability, and optimal performance in a cloud-native environment.
+● Implemented over 400+ unit tests for the backend using Jest and Vitest, and 100+ End-To-End (E2E) tests for the
+frontend using Cypress, ensuring application stability and test coverage.
+● Led regular code reviews and debugging sessions for a 5-member team to uphold code quality and facilitate
+knowledge sharing.
+
+BRUNNY AGENCY Astara, Iran
+Frontend Developer January 2022 – May 2023
+● Contributed to delivering 14 projects on schedule, ensuring customer satisfaction by collaborating with a diverse
+team of 4 and utilizing unique talents in a fast-paced environment.
+● Partnered with UX/UI designers to translate intricate design concepts into responsive web pages, achieving 100%
+cross-browser compatibility and enhancing user experience.
+● Expanded React Native project functionality by integrating 3 new pages for seamless authentication via SMS,
+enhancing user security, and access control.
+● Advised back-end developers to ensure seamless integration of RESTful API, WebSocket, and front-end
+components, enabling robust functionality and data interaction.
+
+
+EDUCATION
+
+UNIVERSITY OF TABRIZ Tabriz, Iran
+Bachelor of Science in Civil Engineering May 2018
+● Top 5 Universities in Iran - Total score of 81% (top 10% of class)
+
+
+ADDITIONAL INFORMATION
+
+● Languages: English (Fluent) - Deutsch (A2 not certied) - Persian (Native) - Turkish (Fluent) - Azerbaijani (Fluent)
